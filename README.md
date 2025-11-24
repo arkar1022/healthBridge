@@ -274,16 +274,3 @@ When contributing to this project:
 3. Write clear commit messages
 4. Test all features across different user roles
 5. Ensure responsive design works on mobile devices
-
-## License
-
-This project is private and proprietary.
-
-## Support
-
-For issues, questions, or feature requests, please contact the development team.
-
----
-
-**Version**: 0.0.0
-**Last Updated**: November 2024
